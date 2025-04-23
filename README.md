@@ -1,4 +1,3 @@
-
 # 🍕 Pizza Sales Report - Power BI
 
 This project presents an interactive **Pizza Sales Dashboard** developed using **Power BI**. It provides meaningful insights into pizza sales performance to help businesses make data-driven decisions.
@@ -60,15 +59,9 @@ The Pizza Sales Report analyzes historical sales data from a pizza restaurant. I
 - Applied best practices in Power BI design for clarity and usability
 
 ---
-
-## 📷 Dashboard Preview
-
 ## 📷 Dashboard Preview
 
 ![Pizza Sales Dashboard](PowerBI.png)
-
-
-
 ---
 
 ## 🚀 Getting Started
