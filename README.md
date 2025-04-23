@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your **Pizza Sales Report using Power BI** project. You can customize it with your specific details like data source, visuals used, or insights found.
-
----
 
 # 🍕 Pizza Sales Report - Power BI
 
@@ -66,7 +63,7 @@ The Pizza Sales Report analyzes historical sales data from a pizza restaurant. I
 
 ## 📷 Dashboard Preview
 
-> *()*
+> *(![Pizza Sales Dashboard Preview](PoweBI.png))*
 
 ---
 
