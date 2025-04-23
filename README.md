@@ -63,7 +63,9 @@ The Pizza Sales Report analyzes historical sales data from a pizza restaurant. I
 
 ## 📷 Dashboard Preview
 
-> *(![Pizza Sales Dashboard Preview](PoweBI.png))*
+![Pizza Sales Dashboard Preview](Pizza-Sales-Report-
+/PowerBi.png)
+
 
 ---
 
